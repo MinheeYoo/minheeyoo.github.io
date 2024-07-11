@@ -1,25 +1,30 @@
 ---
 layout: about
-title: about
+title: Home
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: 
 
 profile:
   align: right
-  image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
+  image: MinheeYoo.PNG
+  image_circular: true # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
 
-news: true # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
+news: false # includes a list of news items
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+Hello! Welcome to my portfolio!
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I am a **Data Scientist** at Nationwide and a **PhD candidate in Psychology** at the Ohio State University.
+
+During my PhD, I studied **how people make decisions based on their preferences**. I uncovered the mechanisms behind preference-based decisions using the Drift Diffusion Model (DDM). The DDM is **a mathematical model that addresses binary classification and linear regression together**. 
+
+As a Data Scientist at Nationwide, I leverage my expertise in data analytics to help Nationwide make data-driven decisions. My work ranges **from data cleaning, feature engineering, and exploratory data analysis (EDA) to predictive modeling**. 
+
+If you have any questions, feel free to reach out to me on <a href="https://www.linkedin.com/in/minheeyoo">**<u>LinkedIn</u>**</a>!
+
+
+
